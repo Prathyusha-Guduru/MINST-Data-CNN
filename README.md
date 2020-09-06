@@ -1,3 +1,3 @@
 # Mnist-Data CNN : 
 
-A Deep Learning model 
+A very simple Deep Learning model using Convolutional Neural Networks 
