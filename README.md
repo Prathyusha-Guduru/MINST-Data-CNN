@@ -1,1 +1,3 @@
-# MINST-Data-CNN
+# Mnist-Data CNN : 
+
+A Deep Learnin
