@@ -1,0 +1,6 @@
+
+
+Dense layer: A linear operation in which every input is connected to every output by a weight (so there are n_inputs * n_outputs weights - which can be a lot!). Generally followed by a non-linear activation function
+Convolutional layer: A linear operation using a subset of the weights of a dense layer. Nearby inputs are connected to nearby outputs (specifically - a convolution 799 ). The weights for the convolutions at each location are shared. Due to the weight sharing, and the use of a subset of the weights of a dense layer, there’s far less weights than in a dense layer. Generally followed by a non-linear activation function
+Pooling layer: Replace each patch in the input with a single output, which is the maximum (can also be average) of the input patch
+Normalisation layer: Scale the input so that the output has near to a zero mean and unit standard deviation, to allow for faster and more resilient training
