@@ -1,5 +1,5 @@
 # Mnist-Data CNN : 
 
 
-A deep learning model which recognises handwritten digits impelemted using Keras (with Tensorflow as backend) trained usning the infamous MNIST dataset.
+A deep learning model 🖧 which recognises handwritten digits 0️⃣->9️⃣ impelemted using Keras (with Tensorflow as backend) trained usning the infamous MNIST dataset.
 The training set it 60,000 images and the testing set contains 10,000 images.
